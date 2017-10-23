@@ -1,23 +1,24 @@
-.blueBackground{
+.blue{
 	background: cornFlowerBlue;
+	border: 8px dashed silver;
+	width: 70%;
 }
 
-.bronzeBackground{
+.bronze{
 	background: brown;
-}
-
-.smallBorder{
-	border: 10px groove orange;
-}
-
-.largeBorder{
 	border: 10px dotted black;
 }
 
-.silverBorder{
-	border: 8px dashed silver;
-}
 
-.goldBackground{
+.gold{
 	background: gold;
+	width: 70%;
+	border: 10px groove orange;
+	float: left;
+
+}
+.extra {
+	border:8px solid lime;
+	background: green;
+	overflow: hidden;
 }
