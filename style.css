@@ -1,0 +1,23 @@
+.blueBackground{
+	background: cornFlowerBlue;
+}
+
+.bronzeBackground{
+	background: brown;
+}
+
+.smallBorder{
+	border: 10px groove orange;
+}
+
+.largeBorder{
+	border: 10px dotted black;
+}
+
+.silverBorder{
+	border: 8px dashed silver;
+}
+
+.goldBackground{
+	background: gold;
+}
