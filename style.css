@@ -22,3 +22,10 @@
 	background: green;
 	overflow: hidden;
 }
+
+.border {
+	border: 2px solid black;
+}
+fieldset {
+	border: 1px solid black;
+}
